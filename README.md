@@ -3,5 +3,5 @@ Name: Waliullah Fahat
 ID: 22234103224
 Intake:50
 Section:06
-Program: B.Sc. Engineering in CSE
+Program: B.Sc. Engg. in CSE
 Email:waliullahfahad@gmail.com
